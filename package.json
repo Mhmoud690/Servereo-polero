@@ -11,4 +11,7 @@
   },
   "author": "shiva yadav",
   "license": "ISC"
+  "dependencies": {
+    "express": "^1.0.0"
+  }
 }
